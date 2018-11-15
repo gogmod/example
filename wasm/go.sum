@@ -1,0 +1,4 @@
+github.com/gogmod/vuego v1.0.0 h1:zvDj3hX3Gibzr245RN3dh8unSNUeTl68Hq1RXn6IXRE=
+github.com/gogmod/vuego v1.0.0/go.mod h1:CqGVKK6z0cWNQR5463MibEV8tAziNYBRwuxsHDsykWI=
+github.com/segmentio/ksuid v1.0.2 h1:9yBfKyw4ECGTdALaF09Snw3sLJmYIX6AbPJrAy6MrDc=
+github.com/segmentio/ksuid v1.0.2/go.mod h1:BXuJDr2byAiHuQaQtSKoXh1J0YmUDurywOXgB2w+OSU=
