@@ -41,11 +41,12 @@ func main() {
 	select {}
 }
 
+//Customer ....
 type Customer struct {
-	Username  string `json:'username'`
-	Password  string `json:'password'`
-	CreatedAt int    `json:'created_at'`
-	UpdatedAt int    `json:'updated_at'`
+	Username  string `json:"username"`
+	Password  string `json:"password"`
+	CreatedAt int    `json:"created_at"`
+	UpdatedAt int    `json:"updated_at"`
 }
 
 func testRejson() {
