@@ -1,0 +1,5 @@
+github.com/CunTianXing/test v0.0.0-20150706102804-dbda3f8cfbae h1:DJTABEL2qr49AkPr7I47DoXGdzJt9usnwbbY1ShbLVI=
+github.com/go-redis/redis v6.14.2+incompatible h1:UE9pLhzmWf+xHNmZsoccjXosPicuiNaInPgym8nzfg0=
+github.com/go-redis/redis v6.14.2+incompatible/go.mod h1:NAIEuMOZ/fxfXJIrKDQDz8wamY7mA7PouImQ2Jvg6kA=
+github.com/gogmod/rejson v1.0.0 h1:3Hy/BwX4cKd9kkp6MhW62VjIS+ndvZQxUliHoqOTJnM=
+github.com/gogmod/rejson v1.0.0/go.mod h1:BknwKrLrTcov0eRFYr6x6d9kxOZ20iG1aU4AAb+yZNs=
